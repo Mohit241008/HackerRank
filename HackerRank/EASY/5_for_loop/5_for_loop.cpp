@@ -10,7 +10,7 @@ for(int i =num1; i <= num2;i++)
 {
 if(i <= 9)
 {
-cout << Arr1[i-1] << endl;
+cout << str[i-1] << endl;
 }
 else
 {
